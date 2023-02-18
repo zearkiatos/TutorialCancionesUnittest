@@ -1,3 +1,8 @@
+# Description
+Repository for understand and learning test 🧪 with python 🐍. It is an application for management songs 🎶🎵🎼
+
+# Make with
+[![Python](https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)]()
 # Tutorial de SQLAlchemy
 
 Para el desarrollo de este tutorial es importante cumplir con los siguientes requisitos:
