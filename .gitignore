@@ -3,3 +3,4 @@
 src/modelo/__pycache__/*
 src/logica/__pycache__/*
 venv
+__pycache__
